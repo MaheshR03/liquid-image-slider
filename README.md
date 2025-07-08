@@ -1,6 +1,6 @@
 # 🌊 LIQUID-IMAGE-SLIDER
 
-<h3>Interactive Liquid image slider effect using <a href="https://www.curtainsjs.com/">pixiJS</a</h3>
+<h3>Interactive Liquid image slider effect using <a href="https://www.curtainsjs.com/">pixiJS</a></h3>
 <hr>
 
 ## ⚓ LIVE DEMO
