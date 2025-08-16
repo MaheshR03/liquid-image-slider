@@ -15,6 +15,4 @@ https://maheshr03.github.io/liquid-image-slider/
 
 ## ©️ CREDITS
 
-https://github.com/ShaifArfan/Displacement-images
-
-https://github.com/hmongouachon/rgbKineticSlider
+[Credit1](https://github.com/ShaifArfan/Displacement-images) | [Credit2](https://github.com/hmongouachon/rgbKineticSlider)
