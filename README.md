@@ -5,7 +5,7 @@
 
 ## ⚓ LIVE DEMO
 
-https://maheshr03.github.io/liquid-image-slider/
+[Check it out](https://maheshr03.github.io/liquid-image-slider/)
 <hr>
 
 ## 📹 SCREENSHOT
